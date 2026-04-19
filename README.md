@@ -2,7 +2,7 @@
 
 Source for **EnergyFlux**, a blog by Chennan Li, PhD, PE &mdash; notes on energy, AI infrastructure, and where they converge.
 
-**Live site:** _(add GitHub Pages URL here once enabled)_
+**Live site:** [chennanli.github.io](https://chennanli.github.io/)
 
 ## Posts
 
