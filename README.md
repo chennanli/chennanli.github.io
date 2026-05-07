@@ -8,6 +8,7 @@ Source for **EnergyFlux**, a blog by Chennan Li, PhD, PE &mdash; notes on energy
 
 | Date | Title |
 |------|-------|
+| May 2026 | [Operating distributed AI inference behind the meter](posts/03-operating-distributed-ai-inference-behind-meter/) &mdash; Part 3 working draft |
 | May 2026 | [Sizing distributed AI inference data centers at industrial sites](posts/02-sizing-distributed-inference-data-centers/) &mdash; Part 2 |
 | April 2026 | [Turning industrial safety buffers into AI inference sites](posts/01-ai-inference-buffers/) &mdash; Part 1 |
 
@@ -20,8 +21,10 @@ Source for **EnergyFlux**, a blog by Chennan Li, PhD, PE &mdash; notes on energy
 │   ├── 01-ai-inference-buffers/
 │   │   ├── index.html                      # Blog post 1
 │   │   └── _sources/                       # Figures and images
-│   └── 02-sizing-distributed-inference-data-centers/
+│   ├── 02-sizing-distributed-inference-data-centers/
 │       └── index.html                      # Blog post 2 standalone HTML
+│   └── 03-operating-distributed-ai-inference-behind-meter/
+│       └── index.html                      # Blog post 3 working draft
 ├── .nojekyll                               # Disables GitHub Jekyll processing
 └── README.md
 ```
